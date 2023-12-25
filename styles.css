@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+   
+}
+h1{
+    color: white;
+    background-color: #063f7c;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img{
+    border-radius: 10%;
+}
+h2{
+    color:#063f7c;
+    background-color: aliceblue;
+    font-weight: 200;
+}
+
+h3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#formulario{
+    color: white;
+    background-color: #bfc4c4;
+    width: 300px;
+    height: 300px;
+
+}
